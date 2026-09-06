@@ -1,4 +1,4 @@
-# Expense Dashboard
+# Finances Dashboard
  
 **Live demo:** https://expense-tracker-cm78iiscw-cr1njay.vercel.app/
 *(backend runs on a free instance and may take ~30 seconds to spin up on first load)*
