@@ -1,6 +1,6 @@
 # Finance Dashboard
  
-**Live demo:** https://expense-tracker-n25h0l5zb-cr1njay.vercel.app
+**Live demo:** https://expense-tracker-alpha-self-71.vercel.app
 *(backend runs on a free instance and may take ~30 seconds to spin up on first load)*
  
 A full-stack web app for tracking personal expenses — log transactions, organize them by category, set budgets, and see spending broken down over time.
